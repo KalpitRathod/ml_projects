@@ -20,7 +20,7 @@ https://github.com/KalpitRathod/ml_projects
 
 ---
 
-![Alt Text](./templates/Screenshot From 2026-05-20 10-18-35.png)
+![Alt Text](./templates/Screenshot%20From%202026-05-20%2010-18-35.png)
 
 ---
 
