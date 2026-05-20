@@ -20,6 +20,10 @@ https://github.com/KalpitRathod/ml_projects
 
 ---
 
+![Alt Text](./templates/'Screenshot From 2026-05-20 10-18-35.png')
+
+---
+
 ## Project Structure
 
 ```bash
