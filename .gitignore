@@ -5,4 +5,7 @@ __pycache__/
 .env
 venv/
 scrapyenv/
-
+*.db
+*.db-shm
+*.db-wal
+*.dbsource
