@@ -1,0 +1,12 @@
+scrapy
+flask
+sentence-transformers
+transformers
+torch
+numpy
+pandas
+scikit-learn
+sqlite-utils
+requests
+beautifulsoup4
+lxml
